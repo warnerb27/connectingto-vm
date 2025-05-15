@@ -5,36 +5,45 @@ Remotely connecting to a Microsoft Azure virtual machine through remote connecti
 
 To connect to your virtual machine you created simply open the "Remote Desktop Connection" application on Windows
 
-![image](https://github.com/user-attachments/assets/0b48dfc6-eb89-4847-baa3-2a465de025d8)
+![image](https://github.com/user-attachments/assets/b7336551-6ac7-4f2b-a2ee-433154d5d3de)
+
 
 Then click on your virtual machine you created and in the overview copt the Public IP address
 
-![image](https://github.com/user-attachments/assets/adf68c02-1a4c-423e-9b4e-0d3c0cd66fc7)
+![image](https://github.com/user-attachments/assets/747165d5-de69-4643-bcfc-412bbb0eea0b)
+
 
 Paste that IP address in the Remote Desktop Connection program
 
-![image](https://github.com/user-attachments/assets/3e8dc85b-ae29-41d0-9db1-ab1889c285da)
+![image](https://github.com/user-attachments/assets/f92a6028-09eb-4942-8b74-1c93bbca317d)
+
 
 When you connect it will ask you to sign in, at the bottom click "more choices"
 
-![image](https://github.com/user-attachments/assets/f85d5c33-0e76-4ae4-9274-2e9d304a401e)
+![image](https://github.com/user-attachments/assets/544b2662-cb0d-42ce-80fd-a74a7329de00)
+
 
 Now click "use different user" this will be the user and password you made for the virtual machine earlier
 
-![image](https://github.com/user-attachments/assets/72ba79b5-5ca7-476b-8b12-d31ecb8edb53)
+![image](https://github.com/user-attachments/assets/b941d490-3c65-4e95-98ca-2899ea0e5de9)
+
 
 As shown here I typed in my user and password I made for the virtual machine
 
-![image](https://github.com/user-attachments/assets/bc2e25cd-f544-4ddf-8a11-0a1346e918b6)
+![image](https://github.com/user-attachments/assets/0c2ea374-5aaf-4d8b-8b27-339d105b9edd)
+
 
 Connecting...
 
-![image](https://github.com/user-attachments/assets/a70aea4c-5705-45c9-8ac1-e84ed101f24a)
+![image](https://github.com/user-attachments/assets/27bf0b96-ad61-48e6-a2a9-6c31bac9bbac)
+
 
 Just like that we have successfully logged into our Windows 10 virtual machine!
 
-![image](https://github.com/user-attachments/assets/0153976a-05ae-4e93-9f5a-36b7b3be0ddd)
+![image](https://github.com/user-attachments/assets/38b79ff3-b4af-421e-960a-160aedbe40f8)
+
 
 It even came with a beautiful background haha
 
-![image](https://github.com/user-attachments/assets/2129d863-e8f5-4720-9d80-a392a9581b8c)
+![Uploading image.png…]()
+
