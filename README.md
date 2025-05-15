@@ -45,5 +45,6 @@ Just like that we have successfully logged into our Windows 10 virtual machine!
 
 It even came with a beautiful background haha
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5342e79f-0a56-42ab-8e93-e5db3a3a4c51)
+
 
